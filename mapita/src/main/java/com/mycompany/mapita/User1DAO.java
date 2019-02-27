@@ -7,8 +7,10 @@ package com.mycompany.mapita;
 
 /**
  *
- * @author ana
+ * @author user
  */
 public class User1DAO extends AbstractDAO<User1>{
-    
+    public Usea1DAO() {
+        super();
+    }
 }
